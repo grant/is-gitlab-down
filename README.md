@@ -2,4 +2,4 @@
 
 Checks if UW's GitLab is down.
 
-http://grant.github.io/is-gitlab-down/
+https://grant.github.io/is-gitlab-down/
