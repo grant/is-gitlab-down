@@ -56,7 +56,7 @@ $(function() {
   var now = new Date;
   var then;
   var isDown = true;
-  var url = '//gitlab.cs.washington.edu/';
+  var url = 'http://gitlab.cs.washington.edu/';
 
   $.ajax({
     url: url,
